@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27701643/README.md)
 # actinide-iv-carboxylate-ea
 
 **Electron affinity of fourteen actinide(IV) carboxylate complexes from
