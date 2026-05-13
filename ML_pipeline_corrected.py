@@ -1,6 +1,6 @@
 """
 =============================================================================
-ML_pipeline_corrected.py
+ML_pipeline.py
 =============================================================================
 Complete machine-learning pipeline for the manuscript:
 
@@ -30,7 +30,7 @@ Outputs (all written to ./outputs/)
 Usage
 -----
     pip install numpy pandas scikit-learn shap matplotlib
-    python ML_pipeline_corrected.py
+    python ML_pipeline.py
 
 Reproducibility
 ---------------
