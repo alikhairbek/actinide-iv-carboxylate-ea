@@ -1,7 +1,6 @@
 # actinide-iv-carboxylate-ea
 
-**Electron affinity of fourteen actinide(IV) carboxylate complexes from
-MN12-L density-functional calculations and explainable machine learning.**
+**Electron Affinity of Actinide (IV) Carboxylate Complexes From MN12-L Density-Functional Calculations and Explainable Machine Learning**
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -260,15 +259,19 @@ in the paper are included in this repository under `data/`.
 If you use this code or dataset, please cite the manuscript:
 
 ```bibtex
-@article{Khairbek2026,
-  author  = {Khairbek, A. A. and ...},
-  title   = {Electron Affinity of Actinide(IV) Carboxylate Complexes
-             from MN12-L Density-Functional Calculations and
-             Explainable Machine Learning},
-  journal = {[Journal of Computational Chemistry, pending acceptance]},
-  year    = {2026},
-  doi     = {[DOI, pending]},
-  note    = {Manuscript in revision}
+@article{https://doi.org/10.1002/jcc.70469,
+author = {Khairbek, Ali A. and Badawi, Mohammad Abd Al-Hakim and Puchta, Ralph and Saleh, Dalia I. and Mahmoud, Samy F. and Thomas, Renjith},
+title = {Electron Affinity of Actinide (IV) Carboxylate Complexes From MN12-L Density-Functional Calculations and Explainable Machine Learning},
+journal = {Journal of Computational Chemistry},
+volume = {47},
+number = {20},
+pages = {e70469},
+keywords = {5f shell, actinides, carboxylate ligands, density functional theory, electron affinity, Koopmans approximation, machine learning, MN12-L, multiplicity validation, SHAP},
+doi = {https://doi.org/10.1002/jcc.70469},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.70469},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/jcc.70469},
+note = {e70469 4588798},
+year = {2026}
 }
 ```
 
